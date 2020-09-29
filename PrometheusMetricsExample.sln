@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrometheusMetricsExample", "PrometheusMetricsExample\PrometheusMetricsExample.csproj", "{66D3A503-7E33-4025-9F32-D6A762FE3270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D3A503-7E33-4025-9F32-D6A762FE3270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D3A503-7E33-4025-9F32-D6A762FE3270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D3A503-7E33-4025-9F32-D6A762FE3270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D3A503-7E33-4025-9F32-D6A762FE3270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC64BA42-B3FE-4B89-A067-46E74343F05B}
+	EndGlobalSection
+EndGlobal
